@@ -1,6 +1,6 @@
 ## Olá, eu sou o Bruno Teixeira e programo em python.
 
-Estou iniciando no ramo da programação, fiz um curso de Python onde aprendi diversos fundamentos teóricos e práticas e gostei bastante das áreas de automação e dados.
+Estou iniciando no ramo da programação, fiz um curso de Python onde aprendi diversos fundamentos teóricos e práticos e gostei bastante das áreas de automação e dados.
 Com isso, hoje estou fazendo um curso na área de Ciência de Dados para aprimorar minhas habilidades.
 
 Estou disponível para trocar aprendizados e experiências.
