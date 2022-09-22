@@ -7,8 +7,8 @@ Estou disponível para trocar aprendizados e experiências.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bruno-josé-camões-teixeira-31aab4174/">
-  <img height="180" width = "400" src="https://github-readme-stats.vercel.app/api?username=brunojct&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180" width = "480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojct&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180" width = "350" src="https://github-readme-stats.vercel.app/api?username=brunojct&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180" width = "415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojct&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
