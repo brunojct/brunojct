@@ -2,7 +2,6 @@
 
 Tenho conhecimento geral de programação em python, mas estou me aperfeiçoando para a parte de dados.
 
-Estou disponível para trocar aprendizados e experiências.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bruno-josé-camões-teixeira-31aab4174/">
